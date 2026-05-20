@@ -1,5 +1,5 @@
-# Nexa
-Only testes version is 24.00
+# Nexa-X-BetterReload
+Only tested version is 24.00
 
 Nexa is a Fortnite backend for all versions of fortnite!
 
