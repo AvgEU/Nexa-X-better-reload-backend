@@ -1,0 +1,41 @@
+{
+  "name": "nexa",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/jsonwebtoken": "^9.0.6",
+    "@types/node": "^20.14.4",
+    "@types/uuid": "^9.0.8",
+    "@types/express": "^4.17.21",
+    "ini": "^6.0.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@types/ini": "^4.1.1",
+    "axios": "^1.7.2",
+    "bad-words": "^3.0.4",
+    "bcrypt": "^5.1.1",
+    "bun-socket": "^0.0.1",
+    "chalk": "^5.3.0",
+    "crypto": "^1.0.1",
+    "destr": "^2.0.3",
+    "discord.js": "^14.15.3",
+    "ecdsa-sig-formatter": "^1.0.11",
+    "express": "^4.19.2",
+    "fast-xml-parser": "^4.4.1",
+    "form-data": "^4.0.5",
+    "hono": "^4.4.6",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.1",
+    "node-fetch": "^2.7.0",
+    "uuid": "^13.0.0",
+    "ws": "^8.18.0",
+    "xml-parser": "^1.2.1",
+    "xmlbuilder": "^15.1.1",
+    "keyv": "^4.5.4",
+    "sjcl": "^1.0.8"
+  }
+}
