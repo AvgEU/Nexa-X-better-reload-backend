@@ -40,3 +40,5 @@ bun run src/index.ts
 - [Hybrid](https://github.com/HybridFNBR) for Discovery for 26.30+ and MOTD
 
 - [Zetax](https://github.com/simplyzetax) for Error responses
+
+EPIC DONT SUE ME JUST SEND ME A MESSAGE ON DISCORD AND I WILL TAKE IT DOWN IMMEDIATELY @3q2g
