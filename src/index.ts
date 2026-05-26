@@ -160,4 +160,4 @@ logger.backend("========================================");
 logger.backend("  Nexa + Better-Reload  |  Port " + port);
 logger.backend("========================================");
 
-export default { port, fetch: app.fetch };
+export default { port, hostname: "0.0.0.0", fetch: app.fetch };
